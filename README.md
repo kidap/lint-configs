@@ -22,6 +22,10 @@ export PATH=/usr/local/bin:$PATH
 uncrustify -l oc
 ```
 
+### Usage
+1. In XCode, select the text you want to lint
+2. Right-click on the text
+3. Go to services, the select `uncrustify`
 
 
 
